@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="fr"><Esri><CreaDate>20230729</CreaDate><CreaTime>13073000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20230729" Time="130730">CalculateField KATOYI_WAY month arcpy.time.ParseDateTimeString(!time!).strftime(%A) PYTHON_9.3 #</Process></lineage></DataProperties></Esri></metadata>
